@@ -1,0 +1,11 @@
+.profileCardContainer {
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.profileCardContainer img{
+    width: 200px;
+}
